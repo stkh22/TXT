@@ -1,0 +1,3 @@
+title, severity/priority, description, environment, steps to reproduce, expected result, actual result, attachments (screenshots, videos, text).[A[D[D[D[D[D[
+[A[C[C[C[C[C[C
+
